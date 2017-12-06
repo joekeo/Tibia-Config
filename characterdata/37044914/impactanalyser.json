@@ -1,0 +1,9 @@
+{
+    "desiredDpsGaugeVisible": false,
+    "desiredDpsGraphVisible": false,
+    "desiredHpsGaugeVisible": false,
+    "desiredHpsGraphVisible": false,
+    "dpsGaugeTargetValue": 0.10000000000000001,
+    "hpsGaugeTargetValue": 0.10000000000000001,
+    "showSessionValues": false
+}
